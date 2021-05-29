@@ -28,7 +28,7 @@ const Login = () => {
             <MDBCardText>
             </MDBCardText>
             <a
-              href='!#'
+              href='admin/login'
               className='primary-text mt-1 d-flex justify-content-end align-items-center'
             >
               <MDBBtn gradient="blue">
